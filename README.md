@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# To do React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -69,5 +69,28 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-Demo:
-https://bnfc-todo.netlify.app/
+
+## Screenshots
+
+1). Add a Task
+![1](https://github.com/its-bnf-cwalker/to_do_list_react_app/assets/88044870/cca09fb9-0bcf-45d5-9868-01f56259adb6)
+
+
+2).Completed task
+![2](https://github.com/its-bnf-cwalker/to_do_list_react_app/assets/88044870/d4e12249-18da-4341-9aae-d0fe8887f527)
+
+3).Deleted task that has been completed
+![3](https://github.com/its-bnf-cwalker/to_do_list_react_app/assets/88044870/f2ee35cc-b49d-4ed1-986b-4905f21e7a1c)
+
+## Demo
+
+=>  https://bnfc-todo.netlify.app/
+
+## Badges
+
+Add badges from somewhere like: [shields.io](https://shields.io/)
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
